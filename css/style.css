@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header {
+    height: 40px;
+    background-color: skyblue;
+    border: 2px solid blue;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.path {
+    height: 60px;
+    background-color: pink;
+    border: 2px solid red;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.doctop {
+    height: 40px;
+    background-color: rgb(212, 230, 111);
+    border: 2px solid rgb(204, 11, 11);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.wrapper {
+    overflow: hidden;
+    height: 500px;
+}
+
+.docleeft {
+    height: 100%;
+    width: 24%;
+    text-align: center;
+    padding-top: 250px;
+    float: left;
+    background-color: rosybrown;
+    border: 2px solid red;
+}
+
+.container {
+    overflow: hidden;
+    height: 100%;
+    width: 52%;
+    
+    
+}
+
+.error {
+    height: 15%;
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(95, 0, 150);
+    border: 1px solid rgba(73, 23, 252, 0.801);
+}
+
+.content {
+    height: 85%;
+    text-align: center;
+    padding-top: 150px;
+    background-color: grey;
+    border: 2px solid black;
+
+}
+
+.docright {
+    height: 100%;
+    width: 24%;
+    float: right;
+    text-align: center;
+    padding-top: 250px;
+    background-color: greenyellow;
+    border: 2px solid green;
+    margin-top: -500px;
+
+}
+
+.docbottom {
+    height: 40px;
+    background-color: skyblue;
+    border: 2px solid blue;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer {
+    height: 40px;
+    background-color: rgb(253, 182, 49);
+    border: 2px solid rgb(255, 54, 28);
+    text-align: center;
+    padding-top: 20px;
+}
